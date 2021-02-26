@@ -1,5 +1,6 @@
-> **WARNING**: This is an old repository containing a partial re-write of DCC++ EX. It is maintained for  
-> historical reasons, and is not developed or bug-fixed. Please use https://github.com/DCC-EX/CommandStation-EX
+> **WARNING**: This is an old repository containing a partial re-write of DCC++ EX 2.0.1. 
+It is maintained for historical reasons, and is not developed or bug-fixed. 
+>  Please use https://github.com/DCC-EX/CommandStation-EX Versions >= 3.0.+
 
 # What's DCC++ EX
 
